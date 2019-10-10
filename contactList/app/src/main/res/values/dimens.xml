@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="nameSize">20sp</dimen>
+    <dimen name="leftRightCardPadding">10dp</dimen>
+    <dimen name="numberSize">15sp</dimen>
+    <dimen name="topBottomPadding">15dp</dimen>
+    <dimen name="cardViewPadding">10dp</dimen>
+    <dimen  name="leftRightCardMargin">5dp</dimen>
+    <dimen name="requireButtonText">40sp</dimen>
+    <dimen name="titleSize">30sp</dimen>
+    <dimen name="phoneLRPadding">20dp</dimen>
+    <dimen name="titlePadding">10dp</dimen>
+    <dimen name="spaceHeight">70dp</dimen>
+    <dimen name="numberPaddding">40dp</dimen>
+</resources>
