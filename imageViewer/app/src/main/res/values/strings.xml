@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">imageViewer</string>
+    <string name="api_url">https://api.unsplash.com/photos/</string>
+    <string name="get_action">GET</string>
+    <string name="filter_key">download_image</string>
+    <string name="default_url">noUrl</string>
+    <string name="no_description">No description</string>
+</resources>
