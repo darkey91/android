@@ -1,0 +1,32 @@
+<resources>
+    <string name="title">Погода</string>
+    <string name="app_name" translatable="false">Weather</string>
+    <string name="degrees">°C</string>
+    <string name="main_temperature">17°C</string>
+    <string name="cloudy_sunny">partly cloudy</string>
+    <string name="location">САНКТ-ПЕТЕРБУРГ, RU</string>
+    <string name="random_number1">78</string>
+    <string name="random_number2">52</string>
+    <string name="random_number3">89</string>
+    <string name="wind">Wind flow</string>
+    <string name="perception">Perception</string>
+    <string name="humidity">Humidity</string>
+    <string name="Monday">Monday</string>
+    <string name="Tuesday">Tuesday</string>
+
+    <string name="Wednesday">Wednesday</string>
+
+    <string name="Thursday">Thursday</string>
+
+    <string name="Friday">Friday</string>
+
+    <string name="Saturday">Saturday</string>
+    <string name="Sunday">Sunday</string>
+    <string name="sunny">sunny</string>
+
+    <string name="rainy">rainy</string>
+    <string name="storm">storm</string>
+    <string name="cloudy">cloudy</string>
+    <string name="thunder">thunder</string>
+    <string name="filter_key">dailyForecast</string>
+</resources>
